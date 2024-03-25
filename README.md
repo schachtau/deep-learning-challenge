@@ -1,2 +1,3 @@
 There is a non-profit organization--Alphabet Soup that requires a tool that can give them valuable information, deep insight and confidence to select applicants to give capital venture funds to. The allocation of these funds must be backed by data science in a way that ensures precision, sound analytical theory with no errors.  Machiine learning, neural networks and more specifically binary classification, are mathematically proven, and will fit this project perfectly to get Alphabet Soup the best possible reccomendations.
+Unfortunately we cant give our client the best reccomendations given that were limited to binary classification. By defenition, this would result in yes/no, true/false classifications when our dataset needs multinomial analysis and classification. 
 
